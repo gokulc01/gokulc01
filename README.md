@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![roadmap.sh](https://roadmap.sh/card/tall/66e2f616445582c3c2f6b504?variant=dark)](https://roadmap.sh)
+[![roadmap.sh](https://roadmap.sh/card/tall/66e2f616445582c3c2f6b504?variant=dark&roadmaps=linux%2Cdevops%2Cdocker%2Cgit-github)](https://roadmap.sh)
